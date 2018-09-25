@@ -1,0 +1,81 @@
+/*Natasha Dryer, nichkey@gmail.com, ©2018*/
+body {
+	background-color:#505050;
+	margin:0;
+	padding:0;
+	height:100%;
+	font-family:Arial;
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+   background-color:#303030;
+   padding:40px;
+   text-align:center;
+   vertical-align:center;
+}
+#body {
+   padding:10px;
+   padding-bottom:75px;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:75px;
+   background:#404040;
+   text-align:center;
+   vertical-align:center;
+}    
+h1 {
+	color:white;
+	font-family:baskerville;
+	text-transform:uppercase;
+}
+p {
+	color:black;
+}
+a:link {
+	color:black;
+	text-decoration:none;
+}
+a:visited {
+	color:black;
+}
+a:hover {
+	color:#13C4A5;
+}
+.lowercase {
+	text-transform:lowercase;
+}
+.uppercase {
+	text-transform:uppercase;
+}
+.footer {
+	color:white;
+	font-size:15px;
+}
+.footer a:link {
+	color:white;
+}
+.footer a:visited {
+	color:white;
+}
+.footer a:hover {
+	color:#13C4A5; /*warm teal*/
+}
+.headertitle {
+	text-transform:lowercase;
+}
+.headertitle a:link {
+	color:white;
+}
+.headertitle a:visited {
+	color:white;
+}
+.headertitle a:hover {
+	color:#13C4A5; /*warm teal*/
+}
+	
